@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/passdata-react/static/css/main.b6df2b59.css",
+    "main.js": "/passdata-react/static/js/main.99ca0079.js",
+    "index.html": "/passdata-react/index.html",
+    "main.b6df2b59.css.map": "/passdata-react/static/css/main.b6df2b59.css.map",
+    "main.99ca0079.js.map": "/passdata-react/static/js/main.99ca0079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6df2b59.css",
+    "static/js/main.99ca0079.js"
+  ]
+}
